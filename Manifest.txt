@@ -1,0 +1,4 @@
+Main-Class: de.hawlandshut.sdeiss.pbkdf2.Main
+Name: Java PBKDF2
+Specification-Title: A PKCS #5 (PBKDF2) implementation for Java(TM).
+Implementation-Title: de.hawlandshut.sdeiss.pbkdf2

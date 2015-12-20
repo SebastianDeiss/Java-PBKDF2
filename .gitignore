@@ -1,0 +1,7 @@
+/bin
+/docs
+/.classpath
+/.project
+*.jar
+/.idea
+*.iml
