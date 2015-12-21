@@ -24,7 +24,7 @@
  * OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package de.hawlandshut.sdeiss.pbkdf2;
+package sdeiss.crypto.pkcs5;
 
 /**
  * A main class to test PBKDF2.

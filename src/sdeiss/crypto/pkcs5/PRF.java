@@ -24,7 +24,7 @@
  * OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package de.hawlandshut.sdeiss.pbkdf2;
+package sdeiss.crypto.pkcs5;
 
 /**
  * Enumeration for available PKCS #5 pseudo random functions (PRFs).

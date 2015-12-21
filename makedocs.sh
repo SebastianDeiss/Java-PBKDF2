@@ -7,7 +7,7 @@
 
 
 APP_NAME="Java-PBKDF2"
-PACKAGES="de.hawlandshut.sdeiss.pbkdf2 org.bouncycastle.crypto org.bouncycastle.crypto.digests org.bouncycastle.crypto.macs org.bouncycastle.crypto.params org.bouncycastle.util"
+PACKAGES="sdeiss.crypto.pkcs5 org.bouncycastle.crypto org.bouncycastle.crypto.digests org.bouncycastle.crypto.macs org.bouncycastle.crypto.params org.bouncycastle.util"
 
 echo "Creating javadoc for $APP_NAME\n"
 
