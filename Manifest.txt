@@ -1,4 +1,4 @@
 Main-Class: sdeiss.crypto.pkcs5.Main
 Name: Java PBKDF2
 Specification-Title: A PKCS #5 (PBKDF2) implementation for Java(TM).
-Implementation-Title: de.hawlandshut.sdeiss.crypto.pkcs5
+Implementation-Title: sdeiss.crypto.pkcs5
