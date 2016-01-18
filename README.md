@@ -1,6 +1,6 @@
 # Java PBKDF2 #
 
-A Java implementation of the PKCS #5 standard (Password Based Key Derivation Framework 2.0).  
+A Java implementation of the PKCS #5 standard (Password-Based Key Derivation Function 2).  
 This implementation allows the usage of PBKDF2 with various hash algorithms.  
 For details about the standard please see [RFC 2898](https://www.ietf.org/rfc/rfc2898.txt).
 

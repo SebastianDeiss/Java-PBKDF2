@@ -85,7 +85,7 @@ public final class Main
     private static void info()
     {
         System.out.println("A Java implementation of the PKCS #5 standard");
-        System.out.println("Password Based Key Derivation Framework 2.0");
+        System.out.println("Password-Based Key Derivation Function 2");
         System.out.println("specified in RFC2898 (https://www.ietf.org/rfc/rfc2898.txt).");
         System.out.println("Copyright (C) 2015 Sebastian Deiss. All rights reserved.");
         System.out.println("");

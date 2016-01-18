@@ -40,7 +40,7 @@ import org.bouncycastle.crypto.digests.SHA512Digest;
 import org.bouncycastle.crypto.digests.WhirlpoolDigest;
 
 /**
- * PKCS #5 Password Based Key Derivation Framework 2.0 (PBKDF2).
+ * PKCS #5 Password-Based Key Derivation Function 2 (PBKDF2).
  * 
  * @author Sebastian Deiss
  * @see <a href="https://www.ietf.org/rfc/rfc2898.txt">RFC 2898</a>
