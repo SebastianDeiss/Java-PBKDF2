@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015, Sebastian Deiss
+ * Copyright (c) 2015-2016, Sebastian Deiss
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without

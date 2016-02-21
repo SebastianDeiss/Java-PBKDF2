@@ -2,7 +2,7 @@
 
 #
 # Makefile for jars.
-# (C) 2015 Sebastian Deiss. All rights reserved.
+# (C) 2015-2016 Sebastian Deiss. All rights reserved.
 #
 
 

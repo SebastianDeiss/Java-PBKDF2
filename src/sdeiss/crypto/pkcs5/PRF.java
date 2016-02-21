@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015, Sebastian Deiss
+ * Copyright (c) 2015-2016, Sebastian Deiss
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without
@@ -28,7 +28,7 @@
 package sdeiss.crypto.pkcs5;
 
 /**
- * Enumeration for available PKCS #5 pseudo random functions (PRFs).
+ * Enumeration for available PKCS #5 PBKDF2 pseudo random functions (PRFs).
  * 
  * @author Sebastian Deiss
  */
