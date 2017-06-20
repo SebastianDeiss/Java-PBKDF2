@@ -7,7 +7,7 @@
 
 
 APP_NAME="Java-PBKDF2"
-PACKAGES="sdeiss/crypto/pkcs5/*.java org.bouncycastle/*/*.java"
+PACKAGES="sdeiss/crypto/pkcs5/*.java org/bouncycastle/*/*.java"
 
 echo "Building $APP_NAME.jar\n"
 
